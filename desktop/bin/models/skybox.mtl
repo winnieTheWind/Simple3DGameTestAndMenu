@@ -1,0 +1,70 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_0_6.png
+Ni 1.00
+newmtl skybox:skybox_0_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_0_0.png
+Ni 1.00
+newmtl skybox:skybox_0_6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_0_6.png
+Ni 1.00
+newmtl skybox:skybox_1_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_1_0.png
+Ni 1.00
+newmtl skybox1:skybox_0_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_0_0.png
+Ni 1.00
+newmtl skybox1:skybox_0_6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_0_6.png
+Ni 1.00
+newmtl skybox1:skybox_1_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_1_0.png
+Ni 1.00
+newmtl skybox2:skybox_0_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_0_0.png
+Ni 1.00
+newmtl skybox2:skybox_0_6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_0_6.png
+Ni 1.00
+newmtl skybox2:skybox_1_0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd skybox_1_0.png
+Ni 1.00
